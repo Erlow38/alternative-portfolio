@@ -1,0 +1,68 @@
+.resume-section {
+    background-color: black;
+    padding: 5rem 25%;
+    padding-top: 10rem;
+}
+
+.resume-section h4 {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 2rem 0 1rem 0;
+}
+
+.resume-section h5 {
+    color:var(--primary-color); 
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin: 0 0 1rem 0;
+    text-align: left;
+}
+
+.resume-section p {
+    color: white;
+    font-size: 1rem;
+    margin: 0 0 1rem 0;
+}
+
+.resume-container {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1rem;
+    padding: 2rem;
+    background-color: var(--background-color);
+    border-radius: 1rem;
+    margin: 5rem 0 0 0;
+}
+
+.resume-info {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 2rem 0;
+}
+
+
+.resume-skills ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+
+.resume-skills ul li {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--primary-color);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}

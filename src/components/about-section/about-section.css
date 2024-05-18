@@ -1,0 +1,26 @@
+.about-section {
+    background-color: black;
+    padding: 5rem 25%;
+    padding-top: 10rem;
+}
+
+.about-section img {
+    width: 15rem;
+    clip-path: circle(50%);
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background-color: var(--background-color);
+    border-radius: 1rem;
+    margin: 5rem 0 0 0;
+}
+
+.about-container p {
+    font-size: 1rem;
+    color: white;
+    margin: 0 10rem 0 0;
+}

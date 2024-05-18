@@ -1,0 +1,12 @@
+.projects-section {
+    background-color: black;
+    padding: 5rem 10%;
+    padding-top: 10rem;
+}
+
+.projects-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 5rem;
+}
