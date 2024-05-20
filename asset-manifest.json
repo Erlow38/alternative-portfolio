@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-ethan-ehrler/static/css/main.b23fe60c.css",
+    "main.css": "/portfolio-ethan-ehrler/static/css/main.ddb0c64e.css",
     "main.js": "/portfolio-ethan-ehrler/static/js/main.f0e0b8aa.js",
     "static/media/meringue.ttf": "/portfolio-ethan-ehrler/static/media/meringue.afd7e84806f5c0315bc8.ttf",
     "index.html": "/portfolio-ethan-ehrler/index.html",
-    "main.b23fe60c.css.map": "/portfolio-ethan-ehrler/static/css/main.b23fe60c.css.map",
+    "main.ddb0c64e.css.map": "/portfolio-ethan-ehrler/static/css/main.ddb0c64e.css.map",
     "main.f0e0b8aa.js.map": "/portfolio-ethan-ehrler/static/js/main.f0e0b8aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b23fe60c.css",
+    "static/css/main.ddb0c64e.css",
     "static/js/main.f0e0b8aa.js"
   ]
 }
