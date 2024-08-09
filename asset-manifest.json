@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio-ethan-ehrler/static/css/main.ddb0c64e.css",
-    "main.js": "/portfolio-ethan-ehrler/static/js/main.f0e0b8aa.js",
-    "static/media/meringue.ttf": "/portfolio-ethan-ehrler/static/media/meringue.afd7e84806f5c0315bc8.ttf",
-    "index.html": "/portfolio-ethan-ehrler/index.html",
-    "main.ddb0c64e.css.map": "/portfolio-ethan-ehrler/static/css/main.ddb0c64e.css.map",
-    "main.f0e0b8aa.js.map": "/portfolio-ethan-ehrler/static/js/main.f0e0b8aa.js.map"
+    "main.css": "/alternative-portfolio/static/css/main.4cf0dc3a.css",
+    "main.js": "/alternative-portfolio/static/js/main.f0e0b8aa.js",
+    "static/media/meringue.ttf": "/alternative-portfolio/static/media/meringue.afd7e84806f5c0315bc8.ttf",
+    "index.html": "/alternative-portfolio/index.html",
+    "main.4cf0dc3a.css.map": "/alternative-portfolio/static/css/main.4cf0dc3a.css.map",
+    "main.f0e0b8aa.js.map": "/alternative-portfolio/static/js/main.f0e0b8aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddb0c64e.css",
+    "static/css/main.4cf0dc3a.css",
     "static/js/main.f0e0b8aa.js"
   ]
 }
